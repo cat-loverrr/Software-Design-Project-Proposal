@@ -248,7 +248,7 @@ WHILE game is running:
 END GAME
 
 
-**FLOWCHART**
+**FLOWCHART** (look in editing mode to see the flowchart correctly, I was having some embedding issues I couldn't solve)
 
           ┌───────────────┐
           │   Start Game  │
