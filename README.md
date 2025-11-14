@@ -294,3 +294,7 @@ END GAME
         ┌───────▼───────────┐
         │ Display Game Over │
         └───────────────────┘
+
+
+**GANTT CHART**
+[Gantt chart link](https://docs.google.com/spreadsheets/d/1ODpN5XkP_Fm8j_PlDokTxcTzkj1v0Nv66YLY0LCduQI/edit?usp=sharing)
